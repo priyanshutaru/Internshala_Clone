@@ -1,0 +1,4 @@
+#Sun Feb 26 23:40:13 PST 2023
+base.0=E\:\\Practice Project\\internshala_clone\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
